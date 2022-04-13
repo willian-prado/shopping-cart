@@ -57,7 +57,7 @@ Ao clicar nesse botão você deve realizar uma requisição para o _endpoint_:
 "https://api.mercadolibre.com/items/$ItemID"
 ```
 onde `$ItemID` deve ser o valor `id` do item selecionado.
-Preste atenção que o JSON deve conter apenas **um** item.
+Preste atenção que o JSON deve conter apenas um item.
 
 Você **deve** utilizar a função `createCartItemElement()` para criar os componentes _HTML_ referentes a um item do carrinho.
 
