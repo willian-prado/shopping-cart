@@ -1,6 +1,6 @@
 ## Projeto Shopping Cart
 
-> Oitavo projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
+> Oitavo projeto do módulo de Fundamentos do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -10,10 +10,9 @@ e assincronicidade em JavaScript.
 **Objetivo do projeto**
 
 Desenvolver um carrinho de compras dinâmico similar aos que existem em e-commerces.
-Para listarmos os produtos à venda usamos a API do Mercado Livre.
-O [manual da API do Mercado Livre](https://developers.mercadolivre.com.br/pt_br/itens-e-buscas) contém muitas informações sobre ela.
+Para listarmos os produtos à venda usamos a [API do Mercado Livre](https://developers.mercadolivre.com.br/pt_br/itens-e-buscas).
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
 - Fazer requisições a uma API *(Application Programming Interface)* do Mercado Livre;
 - Utilizar conhecimentos sobre JavaScript, CSS e HTML;
@@ -88,3 +87,8 @@ Crie um botão para remover todos os itens do carrinho de compras. Ele deve, **o
 Uma requisição à API gasta um tempo e durante ele, ficamos sem saber se está tudo certo ou se algo deu errado.
 Normalmente é utilizada alguma forma para mostrar que a requisição está em andamento.
 Mostre a palavra "loading..." em algum lugar da página **apenas durante** a requisição à API. O elemento mostrado durante o carregamento da página deve, **obrigatóriamente**, ter a classe `loading`.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
+
